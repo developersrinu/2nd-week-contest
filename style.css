@@ -1,0 +1,35 @@
+.main-table{
+    border-collapse: collapse;
+    border: 1px solid black;
+    width: 100vw;
+
+
+}
+.subtable{
+    border-collapse: collapse;
+    border: 1px solid black
+}
+th,td{
+    border: 1px solid black;
+    padding: 8px;
+    width: 100vw;
+}
+td{
+    padding: 10px;
+    margin: auto;
+}
+
+
+div {
+    padding: 5px;
+    margin: 5px;
+}
+
+input {
+    width: 100vw;
+}
+
+input#btn {
+    background-color: black;
+    color: white;
+}
